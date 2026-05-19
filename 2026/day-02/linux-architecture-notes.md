@@ -118,3 +118,4 @@ Understanding this helps you troubleshoot, optimize, and operate systems confide
 # Refer Link
 
 - https://chatgpt.com/share/6a0cb6b9-ac9c-83a7-b397-51fc1a8412bf
+- https://www.slideshare.net/slideshow/architecture-of-linux/248787022
